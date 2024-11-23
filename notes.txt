@@ -1,0 +1,10 @@
+npm create vite@latest
+npm install
+npm run dev
+
+use snippet "rafce" to create structure in app.jsx
+
+
+
+A WebKit linear gradient is a CSS property used to create a smooth transition between two or more colors in a straight line. 
+
