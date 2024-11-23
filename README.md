@@ -38,7 +38,7 @@ Ensure you have the following installed on your system:
    VITE_API_KEY=""
    ```
 
-4. Add this to you gemini.js file like this:
+4. Add this to your gemini.js file like this:
 
    ```bash
    const apiKey = import.meta.env.VITE_API_KEY;
